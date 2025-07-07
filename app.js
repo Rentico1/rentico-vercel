@@ -1,0 +1,1 @@
+console.log("Rentico app loaded");
